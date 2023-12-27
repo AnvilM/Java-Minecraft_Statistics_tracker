@@ -1,0 +1,4 @@
+name: Stats
+version: '${project.version}'
+main: anvilm.minecraft.stats.stats.Stats
+api-version: '1.16'

@@ -1,0 +1,3 @@
+anvilm\minecraft\stats\stats\Stats.class
+anvilm\minecraft\stats\stats\events\StatsTrack.class
+anvilm\minecraft\stats\stats\utils\http.class

@@ -1,0 +1,4 @@
+name: Stats
+version: '1.0-SNAPSHOT'
+main: anvilm.minecraft.stats.stats.Stats
+api-version: '1.16'
